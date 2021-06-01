@@ -9,4 +9,44 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  text-align: center;
+  background-image: url(wp2836051.jpg);
+}
+.hue {
+  font-size: 4rem;
+  color: black;
+}
+
+.saturation {
+  font-size: 4rem;
+}
+
+.lightness {
+  font-size: 4rem;
+}
+
+.alpha {
+  font-size: 4rem;
+}
+
+.color-bar {
+  padding: 3rem;
+  font-size: 2rem;
+  text-align: center;
+  border: 8px double black;
+  align-items: center;
+  margin-right: 10rem;
+  margin-left: 10rem;
+  margin-top: 2rem;
+}
+
+button {
+  font-size: 1.5rem;
+  border-radius: 14rem;
+  padding: 1rem;
+  margin: 2rem;
+}
+
+p {
+  padding: 1rem;
 }
